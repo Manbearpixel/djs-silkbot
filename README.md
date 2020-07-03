@@ -2,7 +2,7 @@
 Specialized Discord bot built for a small stock trading community. While the current purpose is to push Nasdaq Trading Halts as they happen during normal market hours, future features and tools can easily be added to the Silkbot platform.
 
 ## Use Silkbot Now!
-To invite Silkbot to your Discord community, [click here](ttps://discord.com/oauth2/authorize?client_id=723210061479936090&scope=bot&permissions=93248). As of right now, it just needs to be able to read, send, and manage messages. You'll need special permissions on your Discord Server to be able to invite Silkbot to your community.
+To invite Silkbot to your Discord community, [click here](https://discord.com/oauth2/authorize?client_id=723210061479936090&scope=bot&permissions=93248). As of right now, it just needs to be able to read, send, and manage messages. You'll need special permissions on your Discord Server to be able to invite Silkbot to your community.
 
 Once he has joined your server (thanks!) simply say `silk sub` to subscribe the current channel you sent that command on for Nasdaq Trade Halt notifications. To unsubscribe, say `silk unsub`.
 
