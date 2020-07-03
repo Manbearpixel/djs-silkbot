@@ -1,0 +1,28 @@
+{
+  "name": "djs-silkbot",
+  "version": "1.0.0",
+  "description": "A bot for silkchan",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "discord.js": "^12.2.0",
+    "feed-read": "0.0.1",
+    "level": "^6.0.1",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "request": "^2.83.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "pm2": "^4.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pm2 start ecosystem.config.js",
+    "stop": "pm2 stop silkbot",
+    "dev": "pm2-dev start ecosystem.config.js --env development",
+    "local": "node index.js"
+  },
+  "author": "Pixel",
+  "license": "GNU GPLv3"
+}
