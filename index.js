@@ -17,6 +17,8 @@ const Storage     = require('./lib/classes/storage');
  * Config and settings
  */
 const config      = require('./etc/config.json');
+const intents     = new Discord.Intents();
+intents.add('GUILD_PRESENCES', 'GUILD_MEMBERS');
 
 /**
  * Primary services
