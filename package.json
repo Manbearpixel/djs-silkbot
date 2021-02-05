@@ -1,11 +1,11 @@
 {
   "name": "djs-silkbot",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A bot for silkchan",
   "main": "index.js",
   "dependencies": {
     "async": "^2.6.0",
-    "discord.js": "^12.2.0",
+    "discord.js": "^12.5.0",
     "feed-read": "0.0.1",
     "level": "^6.0.1",
     "moment": "^2.27.0",
