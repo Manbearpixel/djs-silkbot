@@ -1,6 +1,6 @@
 {
   "name": "djs-silkbot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A bot for silkchan",
   "main": "index.js",
   "dependencies": {
