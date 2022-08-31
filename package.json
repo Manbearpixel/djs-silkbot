@@ -9,7 +9,7 @@
     "feed-read": "0.0.1",
     "level": "^6.0.1",
     "moment": "^2.27.0",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.35",
     "request": "^2.83.0",
     "xml2js": "^0.4.23"
   },
