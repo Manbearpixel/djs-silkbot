@@ -14,7 +14,7 @@
     "xml2js": "^0.4.23"
   },
   "devDependencies": {
-    "pm2": "^4.4.0"
+    "pm2": "^5.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
